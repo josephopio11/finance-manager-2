@@ -1,0 +1,83 @@
+Cash,Date,Utilities,Electric Company,80,Cash,Monthly electric bill
+Debit Card,2024-05-05 00:00:00,Transport,Gas Station,40.5,Wells Fargo,Fuel for car
+Credit Card,2024-05-07 00:00:00,Entertainment,Movie Theater,25,Chase,Movie night
+Cash,2024-05-09 00:00:00,Dining,Restaurant,60,Cash,Dinner with friends
+Debit Card,2024-05-11 00:00:00,Groceries,Supermarket,100,Wells Fargo,Weekly groceries
+Credit Card,2024-05-13 00:00:00,Health,Pharmacy,30,Chase,Medication
+Cash,2024-05-15 00:00:00,Rent,Landlord,500,Cash,Monthly rent
+Debit Card,2024-05-17 00:00:00,Insurance,Car Insurance,120,Wells Fargo,Car insurance payment
+Credit Card,2024-05-19 00:00:00,Entertainment,Concert,75,Chase,Concert tickets
+Cash,2024-05-21 00:00:00,Dining,Cafe,20,Cash,Brunch
+Debit Card,2024-05-23 00:00:00,Transport,Train Ticket,50,Wells Fargo,Travel expenses
+Credit Card,2024-05-25 00:00:00,Groceries,Grocery Store,45,Chase,Food purchase
+Cash,2024-05-27 00:00:00,Utilities,Water Company,60,Cash,Monthly water bill
+Debit Card,2024-05-29 00:00:00,Health,Gym,40,Wells Fargo,Gym membership
+Credit Card,2024-05-31 00:00:00,Entertainment,Sports Event,90,Chase,Match tickets
+Cash,2024-06-02 00:00:00,Dining,Fast Food,15,Cash,Lunch
+Debit Card,2024-06-04 00:00:00,Groceries,Farmers Market,35,Wells Fargo,Fresh produce
+Credit Card,2024-06-06 00:00:00,Health,Doctor,120,Chase,Consultation fee
+Cash,2024-06-08 00:00:00,Rent,Property Manager,500,Cash,Monthly rent
+Debit Card,2024-06-10 00:00:00,Insurance,Health Insurance,80,Wells Fargo,Health insurance payment
+Credit Card,2024-06-12 00:00:00,Entertainment,Movie Theater,25,Chase,Movie night
+Cash,2024-06-14 00:00:00,Dining,Restaurant,60,Cash,Dinner with family
+Debit Card,2024-06-16 00:00:00,Transport,Bus Ticket,20,Wells Fargo,Bus fare
+Credit Card,2024-06-18 00:00:00,Groceries,Supermarket,70,Chase,Weekly groceries
+Cash,2024-06-20 00:00:00,Utilities,Internet Provider,40,Cash,Monthly internet bill
+Debit Card,2024-06-22 00:00:00,Health,Pharmacy,35,Wells Fargo,Medicine
+Credit Card,2024-06-24 00:00:00,Entertainment,Concert,85,Chase,Concert tickets
+Cash,2024-06-26 00:00:00,Dining,Cafe,25,Cash,Afternoon tea
+Debit Card,2024-06-28 00:00:00,Groceries,Grocery Store,55,Wells Fargo,Groceries
+Credit Card,2024-06-30 00:00:00,Utilities,Electric Company,75,Chase,Electric bill
+Cash,2024-07-02 00:00:00,Transport,Gas Station,45,Cash,Car fuel
+Debit Card,2024-07-04 00:00:00,Health,Gym,50,Wells Fargo,Gym membership
+Credit Card,2024-07-06 00:00:00,Entertainment,Movie Theater,30,Chase,Movie night
+Cash,2024-07-08 00:00:00,Dining,Restaurant,70,Cash,Dinner date
+Debit Card,2024-07-10 00:00:00,Groceries,Supermarket,90,Wells Fargo,Grocery shopping
+Credit Card,2024-07-12 00:00:00,Utilities,Water Company,55,Chase,Water bill
+Cash,2024-07-14 00:00:00,Rent,Landlord,500,Cash,Monthly rent
+Debit Card,2024-07-16 00:00:00,Insurance,Car Insurance,110,Wells Fargo,Car insurance
+Credit Card,2024-07-18 00:00:00,Entertainment,Concert,100,Chase,Live concert
+Cash,2024-07-20 00:00:00,Dining,Cafe,30,Cash,Coffee break
+Debit Card,2024-07-22 00:00:00,Transport,Train Ticket,65,Wells Fargo,Train travel
+Credit Card,2024-07-24 00:00:00,Groceries,Grocery Store,80,Chase,Groceries
+Cash,2024-07-26 00:00:00,Health,Pharmacy,25,Cash,Prescriptions
+Debit Card,2024-07-28 00:00:00,Utilities,Internet Provider,45,Wells Fargo,Internet service
+Credit Card,2024-07-30 00:00:00,Health,Doctor,130,Chase,Doctor visit
+Cash,2024-08-01 00:00:00,Entertainment,Sports Event,95,Cash,Game tickets
+Debit Card,2024-08-03 00:00:00,Dining,Restaurant,85,Wells Fargo,Dinner out
+Credit Card,2024-08-05 00:00:00,Transport,Bus Ticket,15,Chase,Bus fare
+Cash,2024-08-07 00:00:00,Groceries,Farmers Market,50,Cash,Farm produce
+Debit Card,2024-08-09 00:00:00,Utilities,Electric Company,80,Wells Fargo,Electricity bill
+Credit Card,2024-08-11 00:00:00,Health,Gym,60,Chase,Gym fees
+Cash,2024-08-13 00:00:00,Dining,Fast Food,20,Cash,Quick meal
+Debit Card,2024-08-15 00:00:00,Groceries,Supermarket,100,Wells Fargo,Grocery run
+Credit Card,2024-08-17 00:00:00,Utilities,Water Company,60,Chase,Water utility
+Cash,2024-08-19 00:00:00,Rent,Property Manager,500,Cash,Monthly rent
+Debit Card,2024-08-21 00:00:00,Insurance,Health Insurance,85,Wells Fargo,Insurance payment
+Credit Card,2024-08-23 00:00:00,Entertainment,Movie Theater,25,Chase,Evening movie
+Cash,2024-08-25 00:00:00,Dining,Cafe,25,Cash,Coffee outing
+Debit Card,2024-08-27 00:00:00,Transport,Gas Station,50,Wells Fargo,Car refuel
+Credit Card,2024-08-29 00:00:00,Health,Pharmacy,30,Chase,Medicines
+Cash,2024-08-31 00:00:00,Entertainment,Concert,90,Cash,Concert night
+Debit Card,2024-09-02 00:00:00,Groceries,Supermarket,95,Wells Fargo,Weekly groceries
+Credit Card,2024-09-04 00:00:00,Utilities,Internet Provider,50,Chase,Internet bill
+Cash,2024-09-06 00:00:00,Dining,Restaurant,75,Cash,Dinner with friends
+Debit Card,2024-09-08 00:00:00,Transport,Bus Ticket,25,Wells Fargo,Bus fare
+Credit Card,2024-09-10 00:00:00,Groceries,Grocery Store,70,Chase,Groceries shopping
+Cash,2024-09-12 00:00:00,Health,Gym,55,Cash,Gym subscription
+Debit Card,2024-09-14 00:00:00,Utilities,Electric Company,85,Wells Fargo,Electricity payment
+Credit Card,2024-09-16 00:00:00,Health,Doctor,140,Chase,Health check-up
+Cash,2024-09-18 00:00:00,Entertainment,Sports Event,100,Cash,Match tickets
+Debit Card,2024-09-20 00:00:00,Dining,Restaurant,90,Wells Fargo,Evening meal
+Credit Card,2024-09-22 00:00:00,Transport,Train Ticket,70,Chase,Train journey
+Cash,2024-09-24 00:00:00,Groceries,Farmers Market,40,Cash,Market produce
+Debit Card,2024-09-26 00:00:00,Health,Pharmacy,35,Wells Fargo,Health supplies
+Credit Card,2024-09-28 00:00:00,Utilities,Water Company,65,Chase,Water payment
+Cash,2024-09-30 00:00:00,Rent,Landlord,500,Cash,Monthly rent
+Debit Card,2024-10-02 00:00:00,Insurance,Car Insurance,115,Wells Fargo,Insurance fee
+Credit Card,2024-10-04 00:00:00,Entertainment,Concert,110,Chase,Concert ticket
+Cash,2024-10-06 00:00:00,Dining,Cafe,35,Cash,Brunch outing
+Debit Card,2024-10-08 00:00:00,Transport,Bus Ticket,30,Wells Fargo,Bus expense
+Credit Card,2024-10-10 00:00:00,Groceries,Supermarket,85,Chase,Grocery expense
+Cash,2024-10-12 00:00:00,Health,Doctor,150,Cash,Doctor visit fee
+Debit Card,2024-10-14 00:00:00,Utilities,Internet Provider,55,Wells Fargo,Internet fee
